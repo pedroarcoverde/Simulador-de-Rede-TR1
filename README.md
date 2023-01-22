@@ -1,2 +1,3 @@
-# Simulador-de-Rede-TR1
-Trabalho UnB
+# Simulador de Rede
+
+Trabalho da matéria Teleinformática de Redes - UnB
